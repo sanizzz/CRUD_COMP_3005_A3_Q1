@@ -1,4 +1,4 @@
-# PostgreSQL Students CRUD (Fast-Track)
+# PostgreSQL Students CRUD (Fast-Track)  video link to download is on brightspace
 
 A tiny example that meets your assignment:
 
